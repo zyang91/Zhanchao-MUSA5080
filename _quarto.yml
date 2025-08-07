@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your Name - MUSA 5080 Portfolio"
+  title: "Zhanchao Yang - MUSA 5080 Portfolio"
   navbar:
     left:
       - href: index.qmd
